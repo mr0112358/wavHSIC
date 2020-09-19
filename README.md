@@ -1,4 +1,4 @@
-# Code Example for "A Wavelet-Based Independence Test for Functional Data]{A Wavelet-Based Independence Test for Functional Data with an Application to MEG Functional Connectivity"
+# Code Example for "A Wavelet-Based Independence Test for Functional Data with an Application to MEG Functional Connectivity"
 
 ## Method functions
 - [wavHSIC.R](./wavHSIC.R) wavHSIC, the proposed method
